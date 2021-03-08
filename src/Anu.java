@@ -1,6 +1,5 @@
-package com;
-
-public class Main {
+public class Anu
+{
 
     public static void main(String[] args) {
 
