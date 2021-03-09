@@ -6,9 +6,6 @@ public class Prriya
 
         System.out.println("HelloR");
         System.out.println("HelloR");
-        System.out.println("HelloR");
-        System.out.println("HelloR");
-        System.out.println("HelloR");
-        System.out.println("HelloR");
+        
     }
 }
